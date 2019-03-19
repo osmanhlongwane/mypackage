@@ -8,7 +8,7 @@ setup(
     description='osman hlongwane python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/<username>/<package-name>',
-    author='<Your Name>',
-    author_email='<Your Email>'
+    url='https://github.com/osmanhlongwane/mypackage.git',
+    author='Osman Hlongwane',
+    author_email='osmanhlongwane@gmail.com'
 )
