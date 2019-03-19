@@ -1,6 +1,5 @@
- """Return the top n items in an array, in descending order.
-
-    Args:
+"""Return the top n items in an array, in descending order.
+Args:
         items (array): list or array-like object containing numerical values.
         n (int): number of top items to return.
 
